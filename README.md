@@ -62,7 +62,12 @@
 
 [「利器社群计划」往期访谈](http://liqi.io/creators/)
 
+#### 「利器社群计划」新访谈列表
+
+[利器访谈：Jesse， 独立写作者，「交差点」播客发起人](https://mp.weixin.qq.com/s/ZVe68N--TJ5H405pt8eZaA)
+
 #### 声明
+
 Inspired by [「利器」](http://liqi.io/community/) 
 
 演绎拓展还请遵循CC-BY-NC-SA原则。
