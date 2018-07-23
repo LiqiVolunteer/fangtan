@@ -66,6 +66,8 @@
 
 [利器访谈：Jesse， 独立写作者，「交差点」播客发起人](https://mp.weixin.qq.com/s/ZVe68N--TJ5H405pt8eZaA)
 
+[利器访谈：Richor，TIB作者，设计爱好和实践者](https://mp.weixin.qq.com/s/CZ755EsIoJBNxqsx4I4q3w)
+
 #### 声明
 
 Inspired by [「利器」](http://liqi.io/community/) 
