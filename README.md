@@ -64,9 +64,23 @@
 
 #### 「利器社群计划」新访谈列表
 
+##### 2018年7月
+
 [利器访谈：Jesse， 独立写作者，「交差点」播客发起人](https://mp.weixin.qq.com/s/ZVe68N--TJ5H405pt8eZaA)
 
 [利器访谈：Richor，TIB作者，设计爱好和实践者](https://mp.weixin.qq.com/s/CZ755EsIoJBNxqsx4I4q3w)
+
+[利器访谈：卢卫彬，Tower产品设计师，卡丁车车手](https://mp.weixin.qq.com/s/61d3dsWYEvrSuiYS4k6bww)
+
+
+
+##### 2018年8月
+
+[利器访谈：南百城，书籍和工具控，书店图书专员](https://mp.weixin.qq.com/s/oiNarcDftBCPLWoG9q2iFA)
+
+[利器访谈：可乐，「识墨笔记」产品设计师](https://mp.weixin.qq.com/s/Kjw3MiGuE0MF3OLiPxmmdQ)
+
+[利器访谈：宝婷，记者、撰稿人、「不可理论」发起人](https://mp.weixin.qq.com/s/2-iBT1ViuU8fVj89HEckYw)
 
 #### 声明
 
