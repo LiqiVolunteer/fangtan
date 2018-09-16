@@ -4,6 +4,7 @@
 
 > 工具和灵感，都是利器。当来自不同的领域，不同类型的创造者的工具和灵感互相碰撞的时候，才会迸发出更多的可能性。为了鼓励更多的工具和灵感的出现，我们发起了「利器社群计划」。「利器社群计划」鼓励独立的组织或个人，在自己的平台上分享「利器」。你可以像 eico 的陶子一样，采访自己身边的同事；也可以像扶墙老师一样，在自己的博客上分享清单。 ————[「利器」](http://liqi.io/community/)
 
+
 #### 什么是「利器专题计划」
 
 > 「专题计划」旨在补充「利器」的内容深度，在社群计划中常常会看到很多不错的思考和工作方式，但受限于篇幅和内容影响难以展开讨论。因此我们希望能够建立一个板块，去集中探讨这一类问题，比如如何用好搜索、如何更好使用笔记应用等等。去邀请在某一领域内资深的用户，分享他们对于这一类问题的思考和解决方式，去有目的地解决特定问题。
@@ -63,6 +64,7 @@
 [「利器社群计划」往期访谈](http://liqi.io/creators/)
 
 #### 「利器社群计划」新访谈列表
+（by 利器Volunteer team）
 
 ##### 2018年7月
 
@@ -72,8 +74,6 @@
 
 [利器访谈：卢卫彬，Tower产品设计师，卡丁车车手](https://mp.weixin.qq.com/s/61d3dsWYEvrSuiYS4k6bww)
 
-
-
 ##### 2018年8月
 
 [利器访谈：南百城，书籍和工具控，书店图书专员](https://mp.weixin.qq.com/s/oiNarcDftBCPLWoG9q2iFA)
@@ -81,6 +81,16 @@
 [利器访谈：可乐，「识墨笔记」产品设计师](https://mp.weixin.qq.com/s/Kjw3MiGuE0MF3OLiPxmmdQ)
 
 [利器访谈：宝婷，记者、撰稿人、「不可理论」发起人](https://mp.weixin.qq.com/s/2-iBT1ViuU8fVj89HEckYw)
+
+[利器访谈：陶新乐，白描、西江月、两个西柚开发者](https://mp.weixin.qq.com/s/EED7OZcDSMs05I9SPlboZw)
+
+[利器访谈：苍浪，智人运营负责人，客户成功经理，信仰互联网的网虫](https://mp.weixin.qq.com/s/B5Vbco42L_Zj5riyp43NNg)
+
+##### 2018年9月
+
+[利器访谈，刘岱宗，可持续城市与交通研究者，一席讲者](https://mp.weixin.qq.com/s/60YzwYxEZaqc_7fRCLYyiQ)
+
+[利器访谈：王鸿智，中英文科技记者](https://mp.weixin.qq.com/s/TcHCLSCJI1fT7xvVmW1Quw)
 
 #### 声明
 
