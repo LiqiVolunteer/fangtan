@@ -88,7 +88,7 @@
 
 ##### 2018年9月
 
-[利器访谈，刘岱宗，可持续城市与交通研究者，一席讲者](https://mp.weixin.qq.com/s/60YzwYxEZaqc_7fRCLYyiQ)
+[利器访谈：刘岱宗，可持续城市与交通研究者，一席讲者](https://mp.weixin.qq.com/s/60YzwYxEZaqc_7fRCLYyiQ)
 
 [利器访谈：王鸿智，中英文科技记者](https://mp.weixin.qq.com/s/TcHCLSCJI1fT7xvVmW1Quw)
 
