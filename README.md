@@ -66,7 +66,7 @@
 #### 「利器社群计划」新访谈列表
 （by 利器Volunteer team）
 
-##### 2018年7月
+##### 2018 年 7 月
 
 [利器访谈：Jesse， 独立写作者，「交差点」播客发起人](https://mp.weixin.qq.com/s/ZVe68N--TJ5H405pt8eZaA)
 
@@ -74,7 +74,7 @@
 
 [利器访谈：卢卫彬，Tower产品设计师，卡丁车车手](https://mp.weixin.qq.com/s/61d3dsWYEvrSuiYS4k6bww)
 
-##### 2018年8月
+##### 2018 年 8 月
 
 [利器访谈：南百城，书籍和工具控，书店图书专员](https://mp.weixin.qq.com/s/oiNarcDftBCPLWoG9q2iFA)
 
@@ -86,14 +86,34 @@
 
 [利器访谈：苍浪，智人运营负责人，客户成功经理，信仰互联网的网虫](https://mp.weixin.qq.com/s/B5Vbco42L_Zj5riyp43NNg)
 
-##### 2018年9月
+##### 2018 年 9 月
 
 [利器访谈：刘岱宗，可持续城市与交通研究者，一席讲者](https://mp.weixin.qq.com/s/60YzwYxEZaqc_7fRCLYyiQ)
 
 [利器访谈：王鸿智，中英文科技记者](https://mp.weixin.qq.com/s/TcHCLSCJI1fT7xvVmW1Quw)
 
+[利器访谈：王凯，日事清运营合伙人](https://mp.weixin.qq.com/s/Y-hvsF5qvCHhyjkXPPPW2A)
+
+[利器访谈：叶少康，商业策划顾问，奥运会火炬手](https://mp.weixin.qq.com/s/HnHaa6R1xKJ6BNToTAXkyg)
+
+##### 2018 年 10 月
+
+[利器访谈：Augus，独立开发者，Eagle 作者](https://mp.weixin.qq.com/s/vFH5nc7gR7vzwlWs3O-9IQ)
+
+[器访谈：Marcus，Forest 联合创始人](https://mp.weixin.qq.com/s/TLsUrSKGL2n5gSoQ9fZ5ZQ)
+
+[利器访谈：于婉莹，「博物志」&「不会聊」制作人，家庭主妇，兼职翻译](https://mp.weixin.qq.com/s/2bqtZFvKTI1ZB_DAmHf-xg)
+
+##### 2018 年 11 月
+
+[利器访谈：吴鲁加，创业者，「知识星球」创始人](https://mp.weixin.qq.com/s/eTYstO5tCKER4VCAb5Rgmw)
+
+[利器访谈：聪聪，印象笔记资深印象大使，坚果云效率大使，幕布布道师](https://mp.weixin.qq.com/s/qAIdY6Tg8_4O5xGMbV8K5w)
+
+[利器访谈：Hoka，Google 用户体验设计师，「UX Coffee 设计咖」主播](https://mp.weixin.qq.com/s/K_w_tBuVIekrxjUH-G8soA)
+
 #### 声明
 
-Inspired by [「利器」](http://liqi.io/community/) 
+Inspired by [「Uses This」](https://usesthis.com/) & [「利器」](http://liqi.io/community/) 
 
-演绎拓展还请遵循CC-BY-NC-SA原则。
+演绎拓展还请遵循 CC-BY-NC-SA 原则。
