@@ -18,10 +18,10 @@
 周末大部分时间都是陪家人，特别是有小孩子以后，世界中心变成了他。
 
 ## 你都有使用哪些硬件？
-![peitu1](images/23_peitu1.png)
+![peitu1](images/23_peitu1.PNG)
 工作上。在公司主要是 MBP 13 寸 + 24 寸 Dell 显示器，在家是 MBP 15 寸 + 34 寸 LG 曲面显示器，偶尔会用 iPad Pro 12.9 来替代之前一直用的纸质笔记本工作；平时有比较多的远程会议，Airpods 或者 Flypods 是不错的选择，我用来分别适配电脑和耳机，在工作的时候通过硬件代理软件切换。
 
-![peitu2](images/23_peitu2.png)
+![peitu2](images/23_peitu2.PNG)
 日常在家。记录方面，Sony A7r2 拍照，配合群晖 Nas 918 + NAS 做家里的存储还是挺好用的，如果你也用群晖，记得一定要装 Moments 这个套件，用佳能照片打印机（CP1200）打出来寄给家里老人或贴在冰箱就特别方便。看书主要还是多看 + Kindle。
 
 在家办公，以前追求的实木大桌子、Herman Miller 椅子、书架什么的，现在用得真的少，硬件现在觉得应该追求必不可少的，而不是花里胡哨的。
@@ -77,7 +77,7 @@ Twitter、GitHub Trending、Medium、搜索、朋友圈、与同事/家人/朋�
 - 静坐；
 - 特别想去一个地方，就会让老婆安排行程。
 
-![peitu3](images/23_peitu3.png)
+![peitu3](images/23_peitu3.PNG)
 
 ## 你平时获得灵感的方式有哪些？
 - 像 Product Hunt、GitHub Trending、Dribbble 都是不错的地方，也会特别关注「认可」的人的朋友圈推荐。
