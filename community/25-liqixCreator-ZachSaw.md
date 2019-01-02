@@ -3,6 +3,7 @@
 
 
 ![图片](https://uploader.shimo.im/f/yaaCdAif6Ektczp2.jpeg!thumbnail)
+
 （图片拍于「星客多」，很偶然的一次模特体验）
 
 **介绍一下你自己和所做的工作。**
