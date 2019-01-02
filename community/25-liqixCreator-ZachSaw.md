@@ -1,7 +1,6 @@
 # 利器访谈：ZachSaw，连续创业者，创意孵化平台 VP
 
 
-![image](images/25_image.JPEG)
 ![image2](images/25_image.jpeg)
 
 （图片拍于「星客多」，很偶然的一次模特体验）
