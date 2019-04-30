@@ -1,145 +1,153 @@
-## 如何加入「社群计划」和「专题计划」？
-
-本计划是第一期[「利器x计划」](http://liqi.io/liqix-create-your-own-life/)下的「利器x创造者」计划。继续「创造者和他们的工具」，在他们的访谈中发现更多的御术、优道、利器、妙用。
+## 如何加入「利器x计划」？
 
 [申请成为「利器x」 计划组织者](http://liqi.io/x/)
 
-#### 什么是「利器社群计划」
+## 如何加入「利器x创造者」计划？
+本计划是第一期[「利器x计划」](http://liqi.io/liqix-create-your-own-life/)下的「利器x创造者」计划。继续「创造者和他们的工具」，在他们的访谈中发现更多的御道、优术、利器、妙用。
 
-> 工具和灵感，都是利器。当来自不同的领域，不同类型的创造者的工具和灵感互相碰撞的时候，才会迸发出更多的可能性。为了鼓励更多的工具和灵感的出现，我们发起了「利器社群计划」。「利器社群计划」鼓励独立的组织或个人，在自己的平台上分享「利器」。你可以像 eico 的陶子一样，采访自己身边的同事；也可以像扶墙老师一样，在自己的博客上分享清单。 ————[「利器」](http://liqi.io/community/)
+### 什么是「利器x创造者」计划？（项目来源于「利器社群计划」）
 
-#### 什么是「利器专题计划」
+> 工具和灵感，都是利器。当来自不同的领域，不同类型的创造者的工具和灵感互相碰撞的时候，才会迸发出更多的可能性。为了鼓励更多的工具和灵感的出现，我们发起了「利器社群计划」。「利器社群计划」鼓励独立的组织或个人，在自己的平台上分享「利器」。你可以像 eico 的陶子一样，采访自己身边的同事；也可以像扶墙老师一样，在自己的博客上分享清单。 ——[「利器」](http://liqi.io/community/)
 
-> 「专题计划」旨在补充「利器」的内容深度，在社群计划中常常会看到很多不错的思考和工作方式，但受限于篇幅和内容影响难以展开讨论。因此我们希望能够建立一个板块，去集中探讨这一类问题，比如如何用好搜索、如何更好使用笔记应用等等。去邀请在某一领域内资深的用户，分享他们对于这一类问题的思考和解决方式，去有目的地解决特定问题。
+「利器x创造者」计划：继续「创造者和他们的工具」，在他们的访谈中发现更多的**御道、优术、利器、妙用**。
 
-
-
-1). 加入「利器社群计划」和「利器专题计划」，可以采用下方的提问大纲，向自己或者身边的人提问。
+1). 加入「利器x创造者」计划，可以采用下方的提问大纲，向自己或者身边的人提问。
 
 
-**「利器社群计划」提问大纲：**
+**「利器x创造者」计划提问大纲：**
 
 1. 介绍一下你自己和所做的工作。
 2. 你的职业生涯的转折点是什么？
-3. 工作中的一天你是怎样度过的？周末呢？
-4. 你都有使用哪些硬件？
-5. 软件呢？
-6. 你常关注的信息源都有哪些？
-7. 你最理想的工作环境是什么？
-8. 你都有哪些工作/生活习惯？
-9. 你平时获得灵感的方式有哪些？
+3. 你都有使用哪些硬件？
+4. 软件呢？
+5. 你常关注的信息源都有哪些？（具体聊聊）
+6. 你都有哪些工作/生活习惯？
+7. 你有哪些属于自己的一套方法/理论？
+8. 你平时获得灵感的方式有哪些？
+9. 你最理想的工作环境是什么？
 10. 你如何理解「利器」？（指代工具/灵感）
 11. 推荐一件生活中的利器给大家。
 
 
-**「利器专题计划提问大纲」：**
-
-选择一个你想分享的领域/方向，分享你对某一问题的思考和解决方式。这一块内容上会相对灵活和开放，我们仅提供一些思路。
-
-如一位播客资深用户：
-
-1. 介绍一下你自己和所做的工作
-2. 你是怎么样开始接触播客的？
-3. 你如何理解播客？
-4. 你听播客的习惯是怎么样的？
-5. 谈一谈播客对你的影响？
-6. 你怎么样定义一期好的播客？
-
-如一位教育事业工作者：
-
-1. 介绍一下你自己和所做的工作
-2. 你如何理解「课程创新」？
-3. 作为一名教育事业工作者，你有过哪些「课程创新」和实践？
-4. 在和学生的互动和组织管理上，你是怎么实践的？
+2). 请在文末注明：本文参与了「利器x创造者」计划，发现更多创造者和他们的工具：http://liqi.io/x/ & https://lisan.io/liqixcreator/about
 
 
-2). 请在文末注明：本文参与了「利器社群计划」（或「利器专题计划」），发现更多创造者和他们的工具：http://liqi.io/community/ & https://github.com/LiqiVolunteer/fangtan
-
-
-3). 发布出来后，请发邮件至 liqivolunteer@gmail.com，并请注明是「利器社群计划」还是「利器专题计划」；
+3). 发布出来后，请发邮件至 liqivolunteer@gmail.com，并请注明是「利器x创造者」计划；
 
 
 4). 收到你的邮件后，我们会把你的访谈文章发布在我们的平台上，同时保留原有链接，分享给更多读者；
 
-所有「利器社群计划」、「利器专题计划」的内容依照 CC-BY-NC-SA 方式分享。当然，这是一个开源的计划。这意味着你还可以增删或修改问题。我们只是提供了一种简单的思考工具。
+所有「利器x创造者」计划的内容依照 CC-BY-NC-SA 方式分享。当然，这是一个开源的计划。这意味着你还可以增删或修改问题。我们只是提供了一种简单的思考工具。
 
 
 
-#### 「利器社群计划」往期访谈
+### 「利器社群计划」往期访谈
 
 [「利器社群计划」往期访谈](http://liqi.io/creators/)
 
 
 
-#### 「利器社群计划」新访谈列表
+### 「利器x创造者」计划访谈列表
 
-（by 利器Volunteer team）
+（by「利器x创造者」team）
 
 ##### 2018 年 7 月
 
-[利器访谈：Jesse， 独立写作者，「交差点」播客发起人](https://mp.weixin.qq.com/s/ZVe68N--TJ5H405pt8eZaA)
+[利器访谈：Jesse， 独立写作者，「交差点」播客发起人](https://lisan.io/liqixcreator/jesse)
 
-[利器访谈：Richor，TIB作者，设计爱好和实践者](https://mp.weixin.qq.com/s/CZ755EsIoJBNxqsx4I4q3w)
+[利器访谈：Richor，TIB作者，设计爱好和实践者](https://lisan.io/liqixcreator/richor)
 
-[利器访谈：卢卫彬，Tower产品设计师，卡丁车车手](https://mp.weixin.qq.com/s/61d3dsWYEvrSuiYS4k6bww)
+[利器访谈：卢卫彬，Tower产品设计师，卡丁车车手](https://lisan.io/liqixcreator/maklu)
 
 ##### 2018 年 8 月
 
-[利器访谈：南百城，书籍和工具控，书店图书专员](https://mp.weixin.qq.com/s/oiNarcDftBCPLWoG9q2iFA)
+[利器访谈：南百城，书籍和工具控，书店图书专员](https://lisan.io/liqixcreator/nanbaicheng)
 
-[利器访谈：可乐，「识墨笔记」产品设计师](https://mp.weixin.qq.com/s/Kjw3MiGuE0MF3OLiPxmmdQ)
+[利器访谈：可乐，「识墨笔记」产品设计师](https://lisan.io/liqixcreator/kele)
 
-[利器访谈：宝婷，记者、撰稿人、「不可理论」发起人](https://mp.weixin.qq.com/s/2-iBT1ViuU8fVj89HEckYw)
+[利器访谈：宝婷，记者，撰稿人，「不可理论」发起人](https://lisan.io/liqixcreator/tifanie)
 
-[利器访谈：陶新乐，白描、西江月、两个西柚开发者](https://mp.weixin.qq.com/s/EED7OZcDSMs05I9SPlboZw)
+[利器访谈：陶新乐，白描，西江月，两个西柚开发者](https://lisan.io/liqixcreator/tolecen)
 
-[利器访谈：苍浪，智人运营负责人，客户成功经理，信仰互联网的网虫](https://mp.weixin.qq.com/s/B5Vbco42L_Zj5riyp43NNg)
+[利器访谈：苍浪，智人运营负责人，客户成功经理，信仰互联网的网虫](https://lisan.io/liqixcreator/canglang)
 
 ##### 2018 年 9 月
 
-[利器访谈：刘岱宗，可持续城市与交通研究者，一席讲者](https://mp.weixin.qq.com/s/60YzwYxEZaqc_7fRCLYyiQ)
+[利器访谈：刘岱宗，可持续城市与交通研究者，一席讲者](https://lisan.io/liqixcreator/liudaizong)
 
-[利器访谈：王鸿智，中英文科技记者](https://mp.weixin.qq.com/s/TcHCLSCJI1fT7xvVmW1Quw)
+[利器访谈：王鸿智，中英文科技记者](https://lisan.io/liqixcreator/hongzhi)
 
-[利器访谈：王凯，日事清运营合伙人](https://mp.weixin.qq.com/s/Y-hvsF5qvCHhyjkXPPPW2A)
+[利器访谈：王凯，日事清运营合伙人](https://lisan.io/liqixcreator/henu)
 
-[利器访谈：叶少康，商业策划顾问，奥运会火炬手](https://mp.weixin.qq.com/s/HnHaa6R1xKJ6BNToTAXkyg)
+[利器访谈：叶少康，商业策划顾问，奥运会火炬手](https://lisan.io/liqixcreator/nelson)
 
 ##### 2018 年 10 月
 
-[利器访谈：Augus，独立开发者，Eagle 作者](https://mp.weixin.qq.com/s/vFH5nc7gR7vzwlWs3O-9IQ)
+[利器访谈：Augus，独立开发者，Eagle 作者](https://lisan.io/liqixcreator/augus)
 
-[器访谈：Marcus，Forest 联合创始人](https://mp.weixin.qq.com/s/TLsUrSKGL2n5gSoQ9fZ5ZQ)
+[器访谈：Marcus，Forest 联合创始人](https://lisan.io/liqixcreator/marcus)
 
-[利器访谈：于婉莹，「博物志」&「不会聊」制作人，家庭主妇，兼职翻译](https://mp.weixin.qq.com/s/2bqtZFvKTI1ZB_DAmHf-xg)
+[利器访谈：于婉莹，「博物志」&「不会聊」制作人，家庭主妇，兼职翻译](https://lisan.io/liqixcreator/wanying)
 
 ##### 2018 年 11 月
 
-[利器访谈：吴鲁加，创业者，「知识星球」创始人](https://mp.weixin.qq.com/s/eTYstO5tCKER4VCAb5Rgmw)
+[利器访谈：吴鲁加，创业者，「知识星球」创始人](https://lisan.io/liqixcreator/wulujia)
 
-[利器访谈：聪聪，印象笔记资深印象大使，坚果云效率大使，幕布布道师](https://mp.weixin.qq.com/s/qAIdY6Tg8_4O5xGMbV8K5w)
+[利器访谈：聪聪，印象笔记资深印象大使，坚果云效率大使，幕布布道师](https://lisan.io/liqixcreator/congcong)
 
-[利器访谈：Hoka，Google 用户体验设计师，「UX Coffee 设计咖」主播](https://mp.weixin.qq.com/s/K_w_tBuVIekrxjUH-G8soA)
+[利器访谈：Hoka，Google 用户体验设计师，「UX Coffee 设计咖」主播](https://lisan.io/liqixcreator/hoka)
 
-[利器访谈：小河，教师，「公民科学社群」组织者](https://mp.weixin.qq.com/s/UyVwBGiKzxm2QofcorWz-w)
+[利器访谈：小河，教师，「公民科学社群」组织者](https://lisan.io/liqixcreator/xiaohe)
 
-[利器访谈：btr，作家，译者，文化评论人](https://mp.weixin.qq.com/s/Gh8FSd5NaKDsze_EyjSwjQ)
+[利器访谈：btr，作家，译者，文化评论人](https://lisan.io/liqixcreator/btr)
 
 ##### 2018 年 12 月
 
-[利器访谈：Kenshin，开发者，远程工作者](https://mp.weixin.qq.com/s/jp6CTcnpNMXLaIw7EKnx_A)
+[利器访谈：Kenshin，开发者，远程工作者](https://lisan.io/liqixcreator/kenshin)
 
-[利器访谈：飞羽醉月， Amazon 工程师，译者](https://mp.weixin.qq.com/s/5n9jb8HpuQRWb1lGf8ggyg)
+[利器访谈：飞羽醉月， Amazon 工程师，译者](https://lisan.io/liqixcreator/feiyuzuiyue)
 
-[利器访谈：hb，天体物理研究，「人间指南」主理人](https://mp.weixin.qq.com/s/xBaV1WugwJCFEQiIksiCBA)
+[利器访谈：hb，天体物理研究，「人间指南」主理人](https://lisan.io/liqixcreator/hb)
 
-[利器访谈：Sofish，工程师，石墨文档上海负责人](https://mp.weixin.qq.com/s/B06phsf8BH_lmNjD91O44A)
+[利器访谈：Sofish，工程师，石墨文档上海负责人](https://lisan.io/liqixcreator/sofish)
 
-[利器访谈：ZachSaw，连续创业者，创意孵化平台 VP]()
+##### 2019 年 1 月
 
+[利器访谈：ZachSaw，连续创业者，创意孵化平台 VP](https://lisan.io/liqixcreator/zachsaw)
 
+[利器访谈：Linghao，Google 软件工程师](https://lisan.io/liqixcreator/linghao)
 
-#### 声明
+[利器访谈：MilkShake 羊，高校教师，「Byte.Coffee」主播](https://lisan.io/liqixcreator/milkshakeyang)
+
+##### 2019 年 2 月
+
+[利器访谈：MARC，学生，准 Google 软件工程师](https://lisan.io/liqixcreator/marc)
+
+##### 2019 年 3 月
+
+[利器访谈：闫璐，摄影师，写作者，旅行者](https://lisan.io/liqixcreator/yanlu)
+
+[利器访谈：JOJO，「出笼」项目主理人](https://lisan.io/liqixcreator/jojo)
+
+[利器访谈：黄璟璐，建筑师，「所建所闻」主理人](https://lisan.io/liqixcreator/huangjinglu)
+
+##### 2019 年 4 月
+
+[利器访谈：海程，战略分析师，创业者，无线游戏探索者](https://lisan.io/liqixcreator/tanghaicheng)
+
+[利器访谈：ADoyle，全栈工程师](https://lisan.io/liqixcreator/adoyle)
+
+[利器访谈：吴添羽，Spotify 产品设计师](https://lisan.io/liqixcreator/wutianyu)
+
+<br>
+
+### 项目标识
+<img src="https://lh3.googleusercontent.com/3ToRt-7CkfDtnoTZIKGul6eqSk-hc4aG9D2_eIRECAIxCE4DliB3cC0_WHS-9E5A6n_IBTqTz-0xiB7nchzaslO88EDOz9M9NzVNZAAOGBaXuB9og11jWuoXKfz3WT-GUn55ZB7cp0XyiOLZq-226d3z2z86SQGwdzWmgKQ_pVZHf1lcRLdJWLZknErZvPfHIJGu9uUQu5Faox2jBbT-6TZ5pUiqQr1IX6mX_4h0rq0UEoy6IQ_aT8FOTRqAYbA9AtdlTEHYmnE2gNU_7m179UVmylj6P7ilxCOMhaBwtXQzGyZ_zNixSaAeDpQnQ9b8zxejLqogqIwxIG-BMZ_RQ1bXjbb5TWlFvJPyVCfgsh7NdQIiYU9zcJtr6INGIw-eWKqExcB0WaWPjsh-FA7jA1Tg0aHklBhytyv5csA1ayn3LzND2ypE9lk_kvaLWBfpce8WKoVO3QKRsRuUh-iNgouEEWwMyoS3xOLsriBcVlgERIg7p27zTq20XTaBcI_qQvk-zllrfy11nB92jnPud13M6VwtPER0ndsW2MFjptGrgYwZfQ0_InNg9pGdJcAaxsVCCkIpulTnzYI6BtPcKTdmlh-6xZ3vX-EQgfs1DO0Q4z81y8PlR5avnS5Yboe5bpewJbJvANbMVCVoqpMfkbxwQfOKvUM=w1014-h943-no" height="300" width="300"></img>
+
+### RSS 订阅  
+<a href='https://lisan.io/liqixcreator/?format=rss'><img src="https://www.mangoapps.com/blog/wp-content/uploads/rss-40674_960_720-300x150.png" width="50" height="50"> 选择 RSS 订阅本栏目</a>，及时接收最新的「利器x创造者」的访谈文章
+
+### 声明
 
 Inspired by [「Uses This」](https://usesthis.com/) & [「利器」](http://liqi.io/community/) 
 
